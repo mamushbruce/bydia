@@ -616,7 +616,7 @@ p:not(:last-of-type),
   }
 }
 
-strong {
+/* strong {
   font-family: "Post Grotesk Bold", Arial, sans-serif;
 }
 
@@ -667,7 +667,7 @@ svg {
 
 hr {
   border-top: 1px;
-}
+} */
 
 .table-section__title, .support-section__list ul li.p, .support-section__list ul .table-section__table__row td li.small-callout, .table-section__table__row td .support-section__list ul li.small-callout, .support-section__list:not(:first-child), .support-section__container, .shop-listing__title, .related-section__title, .link-grid__title, .gallery__title, .feature-section__title, .exhibition-list-section .exhibition-list__container .exhibition-list__item, .cta-section__text-wrapper .text, .collection-section__title {
   border-top: 1.25px solid var(--text-primary-black);
